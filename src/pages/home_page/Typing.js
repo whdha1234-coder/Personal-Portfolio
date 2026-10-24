@@ -6,10 +6,10 @@ function Typing() {
         <Typewriter
             options={{
                 strings: [
-                    "Developer",
-                    "Software Engineer",
-                    "Frontend Developer",
-                    "Backend Developer",
+                    "Data Analyst",
+                    "Power BI & Tableau Specialist",
+                    "SQL & Python Developer",
+                    "Excel & Power Query Expert",
                 ],
                 autoStart: true,
                 loop: true,
